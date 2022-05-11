@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<Routine>
+      <Countdown>
+      <seconds>10</seconds>
+      <type>Ejercicio</type>
+      </Countdown>
+      <Countdown>
+      <seconds>5</seconds>
+      <type>Descanso</type>
+      </Countdown>
+      <Countdown>
+      <seconds>10</seconds>
+      <type>Ejercicio</type>
+      </Countdown>
+</Routine>
+
