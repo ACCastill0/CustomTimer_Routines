@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0"?>
 <Routines>
   <Routine>
-      <name>aa</name>
-      <url>test</url>
+      <name>Test Routine</name>
+      <url>https://raw.githubusercontent.com/ACCastill0/CustomTimer_Routines/main/Routines/TestRoutine.xml</url>
+      <description>Test Routine made to test things obviously</description>
   </Routine>
   <Routine>
       <name>bb</name>
