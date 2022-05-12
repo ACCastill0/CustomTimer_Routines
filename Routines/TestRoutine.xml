@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<Routine>
+<Timers>
       <Countdown>
       <seconds>10</seconds>
       <type>Ejercicio</type>
@@ -12,5 +12,5 @@
       <seconds>10</seconds>
       <type>Ejercicio</type>
       </Countdown>
-</Routine>
+<Timers>
 
