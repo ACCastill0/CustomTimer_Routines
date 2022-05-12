@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0"?>
 <Routines>
   <Routine>
-      <name>Test Routine</name>
-      <url>https://raw.githubusercontent.com/ACCastill0/CustomTimer_Routines/main/Routines/TestRoutine.xml</url>
-      <description>Test Routine made to test things obviously</description>
+      <name>EMOM 12'</name>
+      <url>https://raw.githubusercontent.com/ACCastill0/CustomTimer_Routines/main/Routines/EMOM1.xml</url>
+      <description>Every Minute On the Minute</description>
   </Routine>
   <Routine>
-      <name>Test Routine 2</name>
-      <url>https://raw.githubusercontent.com/ACCastill0/CustomTimer_Routines/main/Routines/TestRoutine.xml</url>
-      <description>Test Routine 2 made to test things obviously</description>
+      <name>Bloque 40"/20" x 4</name>
+      <url>https://raw.githubusercontent.com/ACCastill0/CustomTimer_Routines/main/Routines/BLOCK1.xml</url>
+      <description>Cuatro repeticiones 40" Ejercicio/20" Descanso</description>
   </Routine>
 </Routines>
