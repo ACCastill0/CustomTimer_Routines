@@ -6,7 +6,8 @@
       <description>Test Routine made to test things obviously</description>
   </Routine>
   <Routine>
-      <name>bb</name>
-      <url>test</url>
+      <name>Test Routine 2</name>
+      <url>https://raw.githubusercontent.com/ACCastill0/CustomTimer_Routines/main/Routines/TestRoutine.xml</url>
+      <description>Test Routine 2 made to test things obviously</description>
   </Routine>
 </Routines>
